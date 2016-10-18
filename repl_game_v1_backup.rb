@@ -1,3 +1,5 @@
+#JUST A COMMET FOR THE HOMEWORK
+
 def casino_draw
 puts "                            ()_                                 	"
 puts "                            || `-._.-.							"
